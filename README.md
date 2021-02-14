@@ -10,3 +10,4 @@ git을 공부한 내용을 정리한 곳 입니다.
 |   3   |    [git add](git-add.md)    | 2021.02.14 |
 |   4   | [git commit](git-commit.md) | 2021.02.14 |
 |   5   | [git ignore](git-ignore.md) | 2021.02.15 |
+|   6   |     [git rm](git-rm.md)     | 2021.02.15 |
